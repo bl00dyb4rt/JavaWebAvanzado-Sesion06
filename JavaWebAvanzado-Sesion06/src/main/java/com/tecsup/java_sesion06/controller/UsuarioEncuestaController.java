@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 import com.tecsup.java_sesion06.modelo.Usuario;
-//prueba git commit2
+//prueba git commit3
 @Controller
 @RequestMapping("/encuesta")
 public class UsuarioEncuestaController {
