@@ -1,6 +1,6 @@
 package com.tecsup.java_sesion06.controller;
 
-//prueba git commit3  
+//prueba branch 2
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
